@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI POWERED FIVEM AIMBOT
+# AI POWERED FIVEM/GTAV AIMBOT
 
 </div>
 
