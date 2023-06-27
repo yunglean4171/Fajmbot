@@ -1,6 +1,9 @@
-<p align="center">
-  <h1>AI POWERED FIVEM AIMBOT</h1>
-</p>
+<div align="center">
+
+# AI POWERED FIVEM AIMBOT
+
+</div>
+
 <p align="center">  
 <img src="https://i.imgur.com/JZATjzx.png">
 </p>
