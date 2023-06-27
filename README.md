@@ -8,6 +8,12 @@
 <img src="https://i.imgur.com/JZATjzx.png">
 </p>
 
+<div align="center">
+
+# [SHOWCASE](https://www.youtube.com/watch?v=z8gI1jsE3ys)
+# [DISCORD SERVER](https://discord.gg/x8ZR8eNpNq)
+</div>
+
 ## Built with:
 * [Lunar Fortnite Aim Assist](https://github.com/zeyad-mansour/lunar/tree/main)
 * [YOLO v5](https://github.com/ultralytics/yolov5)
@@ -25,7 +31,7 @@ pip install -r requirements.txt
 ```
 4. Youre good to go ;)
 
-##Usage
+## Usage
 Normal mode:
 ```
 python fajmbot.py
