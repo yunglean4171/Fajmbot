@@ -31,6 +31,8 @@ pip install -r requirements.txt
 ```
 4. Youre good to go ;)
 
+### [!] AUTO SHOOT AND LOCKING ON HEAD WORKS ONLY WHEN YOU HOLD LEFT CLICK
+
 ## Usage
 Normal mode:
 ```
