@@ -29,7 +29,7 @@ git clone https://github.com/yunglean4171/Fajmbot.git
 ```
 pip install -r requirements.txt
 ```
-4. Youre good to go ;)
+4. You're good to go ;)
 
 ### [!] AUTO SHOOT AND LOCKING ON HEAD WORKS ONLY WHEN YOU HOLD RIGHT CLICK
 
