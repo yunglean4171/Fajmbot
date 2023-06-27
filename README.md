@@ -1,3 +1,3 @@
 # Fajmbot
-<p align="center">Your centered text goes here</p>
+<p align="center">***Your centered text goes here***</p>
 
