@@ -62,7 +62,7 @@ class Aimbot:
 
     def __init__(self, box_constant = 416, collect_data = False, mouse_delay = 0.0001, debug = False):
         #version check
-        version = '0.1.0'
+        version = '0.1.1'
 
         url = 'https://raw.githubusercontent.com/yunglean4171/Fajmbot/main/v.txt'
         response = requests.get(url)
