@@ -19,7 +19,7 @@
 * [YOLO v5](https://github.com/ultralytics/yolov5)
 * Python 3.11.4
 
-## Setup:
+## Setup [CLICK HERE TO VIEW VIDEO TUTORIAL](https://www.youtube.com/watch?v=-CP_RQufdc0):
 1. Install Python 3.11.4 or newer and install [install pip](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 2. Clone repo
 ```
