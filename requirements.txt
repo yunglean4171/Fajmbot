@@ -1,7 +1,12 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
 mss==9.0.1
-numpy==1.25.0
+numpy
 opencv_python==4.7.0.72
 pynput==1.7.6
 pywin32==306
 termcolor==2.3.0
-torch==2.0.0+cu117
+torch==2.0.0+cu118
+
+torch==2.0.0+cu118 
+torchvision==0.15.1+cu118
