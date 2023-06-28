@@ -19,3 +19,5 @@ pywin32
 requests
 wheel
 termcolor
+psutil
+ultralytics
